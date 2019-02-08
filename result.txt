@@ -1,0 +1,6 @@
+2019-02-08 17:05:31.244725 __init__ (<__main__.Contact object at 0x00EBD530>, 'Ivan', 'Ivanov', '+79051231234') {'telegram': '@ivanka', 'email': 'ivanov.i@mail.ru'} None
+2019-02-08 17:05:31.244725 __init__ (<__main__.Contact object at 0x00EBD3B0>, 'Petr', 'Petrenko', '+79051234567') {'favorites': True, 'telegram': '@petrushka'} None
+2019-02-08 17:05:31.245725 __init__ (<__main__.Contact object at 0x00EBD590>, 'Sergio', 'Italiano', '+10958785412') {'email': 'factor@gmail.com'} None
+2019-02-08 17:09:04.731936 __init__ (<__main__.Contact object at 0x004B5510>, 'Ivan', 'Ivanov', '+79051231234') {'telegram': '@ivanka', 'email': 'ivanov.i@mail.ru'} None
+2019-02-08 17:09:04.731936 __init__ (<__main__.Contact object at 0x004B5550>, 'Petr', 'Petrenko', '+79051234567') {'favorites': True, 'telegram': '@petrushka'} None
+2019-02-08 17:09:04.732936 __init__ (<__main__.Contact object at 0x004B5570>, 'Sergio', 'Italiano', '+10958785412') {'email': 'factor@gmail.com'} None
